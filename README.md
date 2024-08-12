@@ -10,7 +10,7 @@ Healthcare_database_1.0.1 : Practice project to increase your sql skills using c
   
   To set up the database, you can use the SQL script provided below:
 
-[Download healthcare_system.sql](https://raw.githubusercontent.com/RaheemAbol/healthcareDB/main/healthcare_system.sql?token=GHSAT0AAAAAACVNBX64732CXQWRPODGUQBOZVYYVQA)
+[Download healthcare_system.sql](https://raw.githubusercontent.com/RaheemAbol/healthcare_database_1.0.1/main/healthcare_system.sql)
 
 ### Instructions:
 
